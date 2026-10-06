@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="infernonovax-full-profile.gif" alt="InfernoNovaX animated profile">
+  <img src="infernonovax-full.gif" alt="InfernoNovaX animated profile">
 </p>
 
 <p align="center">
